@@ -105,7 +105,7 @@ h2, h3 {
   background-repeat: no-repeat;
   background-position: 50%;
   background-color: var(--strong-cyan);
-  box-shadow: 0px 10px 15px hsla(var(--strong-cyan), 0.5);
+  box-shadow: 0px 10px 15px var(--strong-cyan-2);
   cursor: pointer;
 }
 
