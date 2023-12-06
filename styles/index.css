@@ -57,7 +57,7 @@ h2, h3 {
   color: var(--grayish-blue);
 }
 
-.billing-per-unit-time span {
+.billing-container {
   display: flex;
   color: var(--dark-desaturated-blue);
   font-size: 34px;
